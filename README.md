@@ -1,3 +1,9 @@
+## Deployed Version at 
+https://blissful-wiles-56069c.netlify.app/
+
+-This application is built in React and utilizes an Advice API in order to deliver advice to a user. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
